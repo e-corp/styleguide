@@ -14,8 +14,6 @@
 
 [7. 工具支持](#7-%E5%B7%A5%E5%85%B7%E6%94%AF%E6%8C%81)
 
-[eagle支持规则](http://wiki.babel.baidu.com/twiki/bin/view/Com/Pmo/Iit/%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
-
 ## 1. 前言
 
 源码文件必须采用UTF-8编码，且不得有BOM头，某些历史遗留的GBK模块除外。
